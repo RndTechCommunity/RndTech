@@ -17,9 +17,8 @@
 - [Организация мероприятий](https://github.com/RndTechCommunity/RndTech/tree/master/events)
 	- [Партнерам](https://github.com/RndTechCommunity/RndTech/tree/master/events/partners.md)
 	- [Площадкам](https://github.com/RndTechCommunity/RndTech/tree/master/events/places.md)
-	- [Спикерам](https://github.com/RndTechCommunity/RndTech/tree/master/events/speakers.md)
-- Сообществам
-	- Площадки
-	- Фотографы
-	- Кейтеринг
-	- Подготовка спикеров
+- [Сообществам](https://github.com/RndTechCommunity/RndTech/tree/master/community)
+	- [Площадки](https://github.com/RndTechCommunity/RndTech/tree/master/community/places.md) и пространства для проведения мероприятий
+	- [Фотографы](https://github.com/RndTechCommunity/RndTech/tree/master/community/photo.md), операторы и видеографы
+	- [Кейтеринг](https://github.com/RndTechCommunity/RndTech/tree/master/community/food.md), кофе и всё, что касается еды
+	- [Подготовка спикеров](https://github.com/RndTechCommunity/RndTech/tree/master/community/speakers.md) (work in progress)
