@@ -14,7 +14,7 @@
 
 # Документы
 - [Нормы поведения](https://github.com/RndTechCommunity/RndTech/tree/master/code-of-conduct)
-- Организация мероприятий
+- [Организация мероприятий](https://github.com/RndTechCommunity/RndTech/tree/master/events)
 	- [Партнерам](https://github.com/RndTechCommunity/RndTech/tree/master/events/partners.md)
 	- [Площадкам](https://github.com/RndTechCommunity/RndTech/tree/master/events/places.md)
 	- [Спикерам](https://github.com/RndTechCommunity/RndTech/tree/master/events/speakers.md)
