@@ -21,4 +21,4 @@
 	- [Площадки](https://github.com/RndTechCommunity/RndTech/tree/master/community/places.md) и пространства для проведения мероприятий
 	- [Фотографы](https://github.com/RndTechCommunity/RndTech/tree/master/community/photo.md), операторы и видеографы
 	- [Кейтеринг](https://github.com/RndTechCommunity/RndTech/tree/master/community/food.md), кофе и всё, что касается еды
-	- [Подготовка спикеров](https://github.com/RndTechCommunity/RndTech/tree/master/community/speakers.md) (work in progress)
+	- [Подготовка спикеров](https://github.com/RndTechCommunity/RndTech/tree/master/community/speakers.md) 
