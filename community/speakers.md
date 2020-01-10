@@ -2,7 +2,7 @@
 
 Мы используем опыт для подготовки докладчиков jug.ru и внутренних конференций, готовим выступающих к публичному выступлению, а так же работаем с контентом доклада и презентацией для успешного выступления на мероприятиях, связанных с IT. Как основной инструмент мы используем фреймворк для подготовки публичного выстпупления.
 
-[![Фреймворк для подготовки публичного выстпупления")](https://github.com/RndTechCommunity/RndTech/blob/master/community/speakers-framework.jpeg "Фреймворк для подготовки публичного выстпупления](https://github.com/RndTechCommunity/RndTech/blob/master/community/speakers-framework.jpeg "Фреймворк для подготовки публичного выстпупления")](https://github.com/RndTechCommunity/RndTech/blob/master/community/speakers-framework.jpeg "Фреймворк для подготовки публичного выстпупления")
+![](https://github.com/RndTechCommunity/RndTech/blob/master/community/speakers-framework.jpeg)
 
 Ещё нас когда-то вдохновляет [бережливый канвас презентации](https://filipyev.ru/2018/02/17/berezhlivyj-kanvas-prezentacii/), статья Егора Толстого "[Про что выступать](https://medium.com/@etolstoy/про-что-выступать-5ee9874bd45f "Про что выступать")" и статья в блоге Онтико [о работе в программном комитете](https://habr.com/ru/company/oleg-bunin/blog/431768/). Особенно, о поиске смысла и цели доклада.
 
