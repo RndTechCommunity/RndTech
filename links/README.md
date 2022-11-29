@@ -1,5 +1,6 @@
 # **Где живет Ростовское ИТ-сообщество: чаты, группы, каналы**
 
+<<<<<<< HEAD
 В Ростовском ИТ-сообществе есть много тематических групп, общих чатов и каналов людей, которые пишут про ИТ и около ИТ. Постарались собрать наиболее полный и актуальный список в одном месте.
 
 🔥 — очень активные живые чаты с большим количеством участников и обсуждений
@@ -21,18 +22,20 @@
 - **QA - Rostov**: [Чат 🔥](https://t.me/qarostov)
 - **QA-Taganrog**: [Чат](https://t.me/qa_taganrog)
 - **DevOps по-Ростовски**: [Чат 🔥](https://t.me/devops_rnd)
+- **IT's People**: [Канал](https://t.me/itspeoplechannel)
 - **Сообщество ИТ-аналитиков**: [Чат](https://t.me/rnditanalytics)
 - **RND.JS**: [Чат 🔥](https://github.com/jsweekdays/rules), [VK](https://vk.com/rndjs), [GitHub](https://github.com/jsweekdays)
 - **Rostov .net community**: [Чат](https://t.me/rnddotnet), [Канал](https://t.me/rnddotnetnews), [VK](https://vk.com/rnddotnet), [GitHub](https://github.com/rnddotnet)
 - **Python Nest Rostov**: [Чат 🔥](https://t.me/+aqfalVALmR9lZDUy)
 - **RnD-Cpp(Cpp, Qt, QML, Boost, etc.)**: [Чат](https://t.me/RNDCpp)
 - **GameDev Rostov**: [Чат](https://t.me/gamedevrostov)
-- **Функциональщики λ61**: [Чат 🚧](https://t.me/lambda61)
-- **Kotlin Rostov User Group**: [Чат 🚧](https://t.me/rndkotlin), [VK](https://vk.com/rndkotlin)
-- **Чат по Angular**: [Чат 🚧](https://t.me/NgRostov)
 - **Rostov Ruby User Group**: [Чат](https://t.me/rndrug)
 - **JS Tgn Weekends**: Чат ⛔ , [VK](https://vk.com/js_tgn), [GitHub](https://github.com/js-tgn)
 - **Фонд поддержки организаторов ИТ-митапов NotFound**: [VK](https://vk.com/rndtech.notfound)
+- **IT meetups in English in Rostov-on-Don IT MATTERS**: [Канал](https://t.me/english_it_matters)
+- **Функциональщики λ61**: [Чат 🚧](https://t.me/lambda61)
+- **Kotlin Rostov User Group**: [Чат 🚧](https://t.me/rndkotlin), [VK](https://vk.com/rndkotlin)
+- **Чат по Angular**: [Чат 🚧](https://t.me/NgRostov)
 
 ## Каналы людей из Ростовского ИТ-сообщества
 
