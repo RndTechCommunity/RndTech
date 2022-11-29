@@ -13,6 +13,7 @@
 Если вы разделяете эти ценности, то мы будем рады видеть вас на наших встречах и в чатах.
 
 # Документы
+- [Где живет Ростовское ИТ-сообщество: чаты, группы, каналы](https://github.com/RndTechCommunity/RndTech/tree/master/links)
 - [Нормы поведения](https://github.com/RndTechCommunity/RndTech/tree/master/code-of-conduct)
 - [Организация мероприятий](https://github.com/RndTechCommunity/RndTech/tree/master/events)
 	- [Партнерам](https://github.com/RndTechCommunity/RndTech/tree/master/events/partners.md)
