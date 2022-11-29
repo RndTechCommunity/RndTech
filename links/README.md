@@ -48,3 +48,4 @@
 - [GitLab Dev Journal от vitallium](https://t.me/gitlab_dev_journal)
 - [Common Nonsense от Алибека Хакиева](https://t.me/common_nonsense)
 - [Вадим, сокращяй от Vadimyan](https://t.me/vadimcut)
+- [Sole Owl от Вени](https://t.me/soleowl)
