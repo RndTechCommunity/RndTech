@@ -38,6 +38,7 @@
 - **Функциональщики λ61**: [Чат 🚧](https://t.me/lambda61)
 - **Kotlin Rostov User Group**: [Чат 🚧](https://t.me/rndkotlin), [VK](https://vk.com/rndkotlin)
 - **Чат по Angular**: [Чат 🚧](https://t.me/NgRostov)
+- **Flutter Rostov Community**: [Чат 🚧](https://t.me/flutter_rnd)
 
 ## Каналы людей из Ростовского ИТ-сообщества
 
