@@ -14,6 +14,7 @@
 
 # Документы
 - [Где живет Ростовское ИТ-сообщество: чаты, группы, каналы](https://github.com/RndTechCommunity/RndTech/tree/master/links)
+- [Список менторов](https://github.com/RndTechCommunity/RndTech/tree/master/mentors)
 - [Нормы поведения](https://github.com/RndTechCommunity/RndTech/tree/master/code-of-conduct)
 - [Организация мероприятий](https://github.com/RndTechCommunity/RndTech/tree/master/events)
 	- [Партнерам](https://github.com/RndTechCommunity/RndTech/tree/master/events/partners.md)
