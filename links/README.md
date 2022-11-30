@@ -29,9 +29,11 @@
 - **Rostov .net community**: [Чат](https://t.me/rnddotnet), [Канал](https://t.me/rnddotnetnews), [VK](https://vk.com/rnddotnet), [GitHub](https://github.com/rnddotnet)
 - **Python Nest Rostov**: [Чат 🔥](https://t.me/+aqfalVALmR9lZDUy)
 - **RnD-Cpp(Cpp, Qt, QML, Boost, etc.)**: [Чат](https://t.me/RNDCpp)
+- **rnd SEO**: [Чат](https://t.me/rndseo)
 - **Startup61**: [Чат](https://t.me/startup61)
 - **GameDev Rostov**: [Чат](https://t.me/gamedevrostov)
 - **Rostov Ruby User Group**: [Чат](https://t.me/rndrug)
+- **RND Cyber Security**: Чат ⛔
 - **JS Tgn Weekends**: Чат ⛔ , [VK](https://vk.com/js_tgn), [GitHub](https://github.com/js-tgn)
 - **Фонд поддержки организаторов ИТ-митапов NotFound**: [VK](https://vk.com/rndtech.notfound)
 - **IT meetups in English in Rostov-on-Don IT MATTERS**: [Канал](https://t.me/english_it_matters)
