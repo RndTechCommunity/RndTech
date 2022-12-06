@@ -37,6 +37,7 @@
 - **JS Tgn Weekends**: Чат ⛔ , [VK](https://vk.com/js_tgn), [GitHub](https://github.com/js-tgn)
 - **Фонд поддержки организаторов ИТ-митапов NotFound**: [VK](https://vk.com/rndtech.notfound)
 - **IT meetups in English in Rostov-on-Don IT MATTERS**: [Канал](https://t.me/english_it_matters)
+- **Code in the Dark | Ростов-на-Дону**: [Канал](https://t.me/code_in_the_dark), [VK](https://vk.com/codeinthedark)
 - **Функциональщики λ61**: [Чат 🚧](https://t.me/lambda61)
 - **Kotlin Rostov User Group**: [Чат 🚧](https://t.me/rndkotlin), [VK](https://vk.com/rndkotlin)
 - **Чат по Angular**: [Чат 🚧](https://t.me/NgRostov)
