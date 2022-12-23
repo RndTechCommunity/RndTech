@@ -24,6 +24,7 @@
 - **QA-Taganrog**: [Чат](https://t.me/qa_taganrog)
 - **DevOps по-Ростовски**: [Чат 🔥](https://t.me/devops_rnd)
 - **IT's People**: [Канал](https://t.me/itspeoplechannel)
+- **IT Standup**: [Канал](https://t.me/IT_StandUp_RND), [VK](https://vk.com/it_standup)
 - **Сообщество ИТ-аналитиков**: [Чат](https://t.me/rnditanalytics)
 - **RND.JS**: [Чат 🔥](https://github.com/jsweekdays/rules), [VK](https://vk.com/rndjs), [GitHub](https://github.com/jsweekdays)
 - **Rostov .net community**: [Чат](https://t.me/rnddotnet), [Канал](https://t.me/rnddotnetnews), [VK](https://vk.com/rnddotnet), [GitHub](https://github.com/rnddotnet)
