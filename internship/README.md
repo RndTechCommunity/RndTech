@@ -21,6 +21,7 @@
 | ООО "Митра"          | Ростов-на-Дону            | Frontend, Java, Kotlin, Python, C#, DevOps                   |  20-40 часов в неделю, ЗП обсуждается индивидуально                          | 3-6 месяцев                    | hr-manager@mitra-space.com                     |
 | Тинькофф          | Ростов-на-Дону            | Java, QA, Системный аналитик, UI дизайнер                |  20-40 часов в неделю, ЗП обсуждается индивидуально                          | 2-6 месяцев                    | [Тинькофф Старт](https://fintech.tinkoff.ru/start/)                     |
 | НИИ Спецвузавтоматика | Ростов-на-Дону | Frontend, JS / TS Backend, Java, Kotlin, Go, Python, C#, QA, ML, C / C++, FPGS, ПЛИС, Embedded | 20-40 часов в неделю, 25.000 - 30.000 рублей | От 3 месяцев | hr@niisva.org Телеграм [@niisva](https://t.me/niisva) | 
+| Zorra Telecom | Ростов-на-Дону | Kotlin, C#, C / C++, swift | 15 часов в неделю, ЗП обсуждается индивидуально | 1-3 месяцев | Телеграм [@alina_zemlyakova](https://t.me/alina_zemlyakova) |
 
 
 \* Кандидатам из других городов компания оплатит билеты и проживание в Москве.
