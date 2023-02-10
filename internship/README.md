@@ -22,7 +22,7 @@
 | Тинькофф          | Ростов-на-Дону или удалённо           | JS / TS Frontend, Java, Kotlin, Go, Python, QA, DevOps, ML, Scala, .NET, SQL, Дизайн, Аналитика (системный аналитик, продуктовый аналитик, технолог, риск-аналитик)                |  20-40 часов в неделю, 70.000 рублей                          | 2 месяца                    | [Тинькофф Старт](https://fintech.tinkoff.ru/start/)                     |
 | НИИ Спецвузавтоматика | Ростов-на-Дону | JS / TS Frontend, JS / TS Backend, Java, Kotlin, Go, Python, C#, QA, ML, C / C++, FPGA, ПЛИС, Embedded | 20-40 часов в неделю, 25.000 - 30.000 рублей | От 3 месяцев | hr@niisva.org Телеграм [@niisva](https://t.me/niisva) | 
 | Zorra Telecom | Ростов-на-Дону | Kotlin, C#, C / C++, swift | 15 часов в неделю, ЗП обсуждается индивидуально | 1-3 месяцев | Телеграм [@alina_zemlyakova](https://t.me/alina_zemlyakova) |
-| WebAnt  | Ростов-на-Дону | Android, iOS, Backend, Designer UX/UI, Project Manager | 30-40 часов в неделю, 30.000 рублей после успешного прохождения стажировки | 2 месяца | [https://webant.ru/jobs](https://webant.ru/jobs) или hr@webant.ru |
+| WebAnt  | Ростов-на-Дону | PHP, DevOps, C++ | 30-40 часов в неделю, 30.000 рублей после успешного прохождения стажировки | 2 месяца | [https://webant.ru/jobs](https://webant.ru/jobs) или hr@webant.ru |
 
 \* Кандидатам из других городов компания оплатит билеты и проживание в Москве.
 
