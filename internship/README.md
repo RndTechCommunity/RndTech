@@ -23,6 +23,7 @@
 | НИИ Спецвузавтоматика | Ростов-на-Дону | Frontend (JS/TS), Backend (Java, Kotlin, Go, Python, C#), QA, ML, C / C++, FPGA, Embedded Linux | 20-40 часов в неделю, 25.000 - 30.000 рублей | От 3 месяцев | hr@niisva.org Телеграм [@niisva](https://t.me/niisva) | 
 | Zorra Telecom | Ростов-на-Дону | Kotlin, C#, C / C++, swift | 15 часов в неделю, ЗП обсуждается индивидуально | 1-3 месяцев | Телеграм [@alina_zemlyakova](https://t.me/alina_zemlyakova) |
 | WebAnt  | Ростов-на-Дону | PHP, DevOps, C++ | 30-40 часов в неделю, 30.000 рублей после успешного прохождения стажировки | 2 месяца | [https://webant.ru/jobs](https://webant.ru/jobs) или hr@webant.ru |
+| Mobyte  | Ростов-на-Дону или удалённо | Flutter  | 20-40 часов в неделю, 16.000 рублей  | 1-3 месяца | Телеграм [@dmitrymobyte](https://t.me/dmitrymobyte) с пометкой «стажировка» |
 
 \* Кандидатам из других городов компания оплатит билеты и проживание в Москве.
 
