@@ -24,6 +24,7 @@
 | Zorra Telecom | Ростов-на-Дону | Kotlin, C#, C / C++, swift | 15 часов в неделю, ЗП обсуждается индивидуально | 1-3 месяцев | С 1 мая  | Телеграм [@alina_zemlyakova](https://t.me/alina_zemlyakova) |
 | WebAnt  | Ростов-на-Дону | PHP, DevOps, C++ | 30-40 часов в неделю, 30.000 рублей после успешного прохождения стажировки | 2 месяца | С 10 февраля  | [https://webant.ru/jobs](https://webant.ru/jobs) или hr@webant.ru |
 | Mobyte  | Ростов-на-Дону или удалённо | Flutter  | 20-40 часов в неделю, 16.000 рублей  | 1-3 месяца | До конца февраля | Телеграм [@dmitrymobyte](https://t.me/dmitrymobyte) с пометкой «стажировка» |
+| Вебпрактик  | Ростов-на-Дону | Frontend (JS/TS), Backend (JS/TS), PHP, React  | 40 часов в неделю, ЗП обсуждается индивидуально  | 2-3 месяца | Периодически, можно уточнить лично | https://team.webpractik.ru/digital-learning или Телеграм [@katerin_ponomareva](https://t.me/katerin_ponomareva) |
 
 \* Кандидатам из других городов компания оплатит билеты и проживание в Москве.
 
