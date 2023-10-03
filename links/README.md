@@ -34,6 +34,7 @@
 - **Startup61**: [Чат](https://t.me/startup61)
 - **GameDev Rostov**: [Чат](https://t.me/gamedevrostov)
 - **Rostov Ruby User Group**: [Чат](https://t.me/rndrug)
+- **Дизайн сообщество Ростова**: [Чат](https://t.me/design161)
 - **RND Cyber Security**: [Чат](https://t.me/+A1bZOS8OqNg2NTky)
 - **JS Tgn Weekends**: Чат ⛔ , [VK](https://vk.com/js_tgn), [GitHub](https://github.com/js-tgn)
 - **Фонд поддержки организаторов ИТ-митапов NotFound**: [VK](https://vk.com/rndtech.notfound)
@@ -56,3 +57,4 @@
 - ❤️❤️❤️❤️❤️ [Летом на лыжах от Дениса Александрова](https://t.me/in_summer_skiing)
 - 🤖🤖🤖🤖❤️ [bravit-about от bravit](https://t.me/bravit_about)
 - 🤖❤️❤️❤️❤️ [know thyself // Ageev от Юры Агеева](https://t.me/passioneconomy)
+- 🤖🤖🤖🤖❤️ [Дитя фреймворка от Dmitriy Grosh](https://t.me/rebenokFrameworka)
