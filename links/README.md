@@ -8,6 +8,7 @@
 
 ⛔ — чат существует, но из-за борьбы с спамом и ботами не хочет размещать публичную ссылку на себя. Спрашивайте ссылку для входа в общем чате.
 
+tl;dr: Ссылка на папку почти со всеми чатами (кроме закрытых): [https://t.me/addlist/_TGuAxEFQ0U5N2Ey](https://t.me/addlist/_TGuAxEFQ0U5N2Ey)
 
 ## Общие чаты/каналы
 
@@ -26,7 +27,7 @@
 - **IT's People**: [Канал](https://t.me/itspeoplechannel)
 - **IT Standup**: [Канал](https://t.me/IT_StandUp_RND), [VK](https://vk.com/it_standup)
 - **Сообщество ИТ-аналитиков**: [Чат](https://t.me/rnditanalytics)
-- **RND.JS**: [Чат 🔥](https://github.com/jsweekdays/rules), [VK](https://vk.com/rndjs), [GitHub](https://github.com/jsweekdays)
+- **RND.JS**: [Чат 🔥](https://t.me/jsweekdays), [VK](https://vk.com/rndjs), [GitHub](https://github.com/jsweekdays)
 - **Rostov .net community**: [Чат](https://t.me/rnddotnet), [Канал](https://t.me/rnddotnetnews), [VK](https://vk.com/rnddotnet), [GitHub](https://github.com/rnddotnet)
 - **Python Nest Rostov**: [Чат 🔥](https://t.me/+aqfalVALmR9lZDUy)
 - **RnD-Cpp(Cpp, Qt, QML, Boost, etc.)**: [Чат](https://t.me/RNDCpp)
